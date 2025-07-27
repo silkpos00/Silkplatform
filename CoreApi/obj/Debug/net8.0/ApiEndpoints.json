@@ -1,0 +1,328 @@
+[
+  {
+    "ContainingType": "CoreApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CoreApi.Model.UserLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.BackOfficeController",
+    "Method": "GetUserMenu",
+    "RelativePath": "api/BackOffice/GetUserMenu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.BaseInfoController",
+    "Method": "GetKitchenDisplays",
+    "RelativePath": "api/BaseInfo/GetKitchenDisplays",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.BaseInfo.GetKitchenDisplaysParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.BaseInfoController",
+    "Method": "GetPortal",
+    "RelativePath": "api/BaseInfo/GetPortal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.BaseInfoController",
+    "Method": "GetPrinters",
+    "RelativePath": "api/BaseInfo/GetPrinters",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.BaseInfo.GetPrintersParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.BaseInfoController",
+    "Method": "GetStation",
+    "RelativePath": "api/BaseInfo/GetStation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.BaseInfo.GetStationParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.BaseInfoController",
+    "Method": "GetTaxRate",
+    "RelativePath": "api/BaseInfo/GetTaxRate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.BaseInfoController",
+    "Method": "GetWeekDays",
+    "RelativePath": "api/BaseInfo/GetWeekDays",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "AddItem",
+    "RelativePath": "api/MenuBuilder/AddItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.MenuBuilder.AddItemParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetCategory",
+    "RelativePath": "api/MenuBuilder/GetCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.GetCategoryParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetItemByID",
+    "RelativePath": "api/MenuBuilder/GetItemByID",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.MenuBuilder.GetItemByIDParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetItemsByCategory",
+    "RelativePath": "api/MenuBuilder/GetItemsByCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.MenuBuilder.GetItemsByCategoryParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetItemsPagesByCategory",
+    "RelativePath": "api/MenuBuilder/GetItemsPagesByCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.MenuBuilder.GetItemsPagesByCategoryParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetItemsSize",
+    "RelativePath": "api/MenuBuilder/GetItemsSize",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.MenuBuilder.GetItemsSizeParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetMenus",
+    "RelativePath": "api/MenuBuilder/GetMenus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetModifierCategory",
+    "RelativePath": "api/MenuBuilder/GetModifierCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetModifiersByCategory",
+    "RelativePath": "api/MenuBuilder/GetModifiersByCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.MenuBuilder.GetModifiersByCategoryParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetModifierSelectMode",
+    "RelativePath": "api/MenuBuilder/GetModifierSelectMode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.MenuBuilderController",
+    "Method": "GetModifiersPagesByCategory",
+    "RelativePath": "api/MenuBuilder/GetModifiersPagesByCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.MenuBuilder.GetModifiersPagesByCategoryParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.OrderController",
+    "Method": "GetOrder",
+    "RelativePath": "api/Order/GetOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.Order.GetOrderParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.OrderController",
+    "Method": "GetPrice",
+    "RelativePath": "api/Order/GetPrice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "System.Collections.Generic.List\u00601[[CoreApi.Model.Order.ItemParams, CoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.OrderController",
+    "Method": "InsertOrder",
+    "RelativePath": "api/Order/InsertOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CoreApi.Model.Order.OrderParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CoreApi.Controllers.TestController",
+    "Method": "Test",
+    "RelativePath": "api/Test/JWT_Test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "CoreApi.Model.TestParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

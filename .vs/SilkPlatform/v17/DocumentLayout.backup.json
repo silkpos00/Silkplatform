@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\model\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\model\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\model\\baseinfo\\baseinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\model\\baseinfo\\baseinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\controllers\\baseinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\baseinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
+              "RelativeToolTip": "CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:40:13.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\BaseInfoController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\BaseInfoController.cs",
+              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\BaseInfoController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\BaseInfoController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:12:14.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\TokenService.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Model\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\TokenService.cs",
+              "RelativeToolTip": "CoreApi\\Model\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:23:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:23:39.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
