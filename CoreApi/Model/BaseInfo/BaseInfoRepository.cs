@@ -4,6 +4,7 @@ using Dapper;
 
 namespace CoreApi.Model.BaseInfo
 {
+    
     public class BaseInfoRepository
     {
         private readonly IConfiguration _config;

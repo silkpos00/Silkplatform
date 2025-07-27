@@ -4378,11 +4378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\CoreApi.csproj",
+      "projectUniqueName": "D:\\gitProjects\\Silkplatform\\CoreApi\\CoreApi.csproj",
       "projectName": "CoreApi",
-      "projectPath": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\CoreApi.csproj",
+      "projectPath": "D:\\gitProjects\\Silkplatform\\CoreApi\\CoreApi.csproj",
       "packagesPath": "C:\\Users\\Silkpos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\obj\\",
+      "outputPath": "D:\\gitProjects\\Silkplatform\\CoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

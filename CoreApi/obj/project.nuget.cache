@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uoi3KBx+yrU=",
+  "dgSpecHash": "nFTEJXqmU08=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\CoreApi.csproj",
+  "projectFilePath": "D:\\gitProjects\\Silkplatform\\CoreApi\\CoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Silkpos\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Silkpos\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

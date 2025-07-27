@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\",
+  "WorkspaceRootPath": "D:\\gitProjects\\Silkplatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\model\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\model\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\model\\baseinfo\\baseinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\model\\baseinfo\\baseinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|c:\\users\\silkpos\\source\\repos\\silkplatform\\coreapi\\controllers\\baseinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3295DC6-C978-4D53-80B1-AE6DAD9BB874}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\baseinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0444C2-1958-45C5-A0E9-6E31ECAC0765}|AdminPanel\\AdminPanel.csproj|d:\\gitprojects\\silkplatform\\adminpanel\\forms\\cu_items.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A0444C2-1958-45C5-A0E9-6E31ECAC0765}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\forms\\cu_items.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,51 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseInfoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
-              "RelativeDocumentMoniker": "CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
-              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
-              "RelativeToolTip": "CoreApi\\Model\\BaseInfo\\BaseInfoRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T18:40:13.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseInfoController.cs",
-              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\BaseInfoController.cs",
-              "RelativeDocumentMoniker": "CoreApi\\Controllers\\BaseInfoController.cs",
-              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\BaseInfoController.cs",
-              "RelativeToolTip": "CoreApi\\Controllers\\BaseInfoController.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T21:12:14.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\TokenService.cs",
-              "RelativeDocumentMoniker": "CoreApi\\Model\\TokenService.cs",
-              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Model\\TokenService.cs",
-              "RelativeToolTip": "CoreApi\\Model\\TokenService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:23:54.928Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "CoreApi\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Silkpos\\source\\repos\\SilkPlatform\\CoreApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "CoreApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:23:39.186Z",
+              "Title": "cu_Items.aspx",
+              "DocumentMoniker": "D:\\gitProjects\\Silkplatform\\AdminPanel\\Forms\\cu_Items.aspx",
+              "RelativeDocumentMoniker": "AdminPanel\\Forms\\cu_Items.aspx",
+              "ToolTip": "D:\\gitProjects\\Silkplatform\\AdminPanel\\Forms\\cu_Items.aspx",
+              "RelativeToolTip": "AdminPanel\\Forms\\cu_Items.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-27T19:53:16.07Z",
               "EditorCaption": ""
             }
           ]

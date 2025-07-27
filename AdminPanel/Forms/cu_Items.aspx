@@ -1,13 +1,17 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="cu_Items.aspx.cs" MasterPageFile="~/Site.Master" Inherits="AdminPanel.Forms.cu_Items" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <style>
+       <style>
         .section-box {
             background-color: #fff;
             border-radius: 8px;
             padding: 25px;
             margin-bottom: 40px;
             box-shadow: 0 0 15px rgba(0,0,0,0.05);
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            /* اطمینان از اشغال کل عرض پدر */
         }
 
         .sidebar-fixed-center {
@@ -24,7 +28,6 @@
             background-color: #fff;
             padding: 15px;
             border-radius: 15px;
-            /*box-shadow: 0 0 15px rgba(0,0,0,0.1);*/
         }
 
         @media (max-width: 1200px) {
@@ -33,10 +36,34 @@
             }
         }
 
+        @media (max-width: 991.98px) {
+            .col-md-9, .col-md-3 {
+                flex: 0 0 100%;
+                max-width: 100%;
+            }
+            .form-toolbar {
+                top: 0 !important;
+            }
+            .form-scroll-container {
+                padding-right: 0 !important;
+            }
+        }
+
+        @media (max-width: 767.98px) {
+            .section-box {
+                padding: 15px;
+                margin-bottom: 24px;
+            }
+            .form-toolbar {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+
         .section-highlighted {
             border: 2px solid #0d6efd !important;
             border-radius: 8px;
-            scroll-margin-top: 70px; /* تا فاصله مناسب برای scroll به سکشن */
+            scroll-margin-top: 70px;
         }
 
         .sidebar-fixed-center a.active {
@@ -47,15 +74,15 @@
         }
 
         .list-group-item.active {
-            border: none !important; /* حذف تمام بوردرها */
-            border-left: 4px solid #0d6efd !important; /* فقط بوردر چپ */
-            background-color: #e9f5ff !important; /* رنگ پس‌زمینه انتخابی */
-            color: #0d6efd !important; /* رنگ متن */
+            border: none !important;
+            border-left: 4px solid #0d6efd !important;
+            background-color: #e9f5ff !important;
+            color: #0d6efd !important;
             font-weight: 600;
         }
 
         .list-group-item {
-            border: none !important; /* حذف بوردرهای پیش‌فرض از همه لینک‌ها */
+            border: none !important;
         }
 
         .sidebar-fixed-center {
@@ -63,14 +90,14 @@
         }
 
         .filter-left {
-            flex: 1; /* به فیلتر اجازه می‌ده فضای باقی‌مانده رو بگیره */
+            flex: 1;
         }
 
         .button-right {
             display: flex;
-            justify-content: flex-end; /* دکمه‌ها رو به انتهای سمت راست بچسبونه */
-            gap: 0.5rem; /* فاصله بین دکمه‌ها */
-            min-width: 200px; /* حداقل عرض برای بخش دکمه‌ها */
+            justify-content: flex-end;
+            gap: 0.5rem;
+            min-width: 200px;
         }
     </style>
     <div class="row">
